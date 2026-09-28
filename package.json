@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tracehtml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trace host/html network string helpers for config audits.",
+  "bin": {
+    "tracehtml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tracehtml.git"
+  },
+  "homepage": "https://theworker02.github.io/tracehtml/",
+  "keywords": [
+    "trace",
+    "html",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
